@@ -1,4 +1,4 @@
-# Pancreatic-Cancer-Combinational-Analysis-GDSC2
+# PC-CDDM (Pancreatic Cancer Combinational Drug Discovert Model)
 Official codebase for pancreatic cancer combinational drugs analysis
 
 ![Graphical Abstract](https://raw.githubusercontent.com/AramDonyaee/Pancreatic-Cancer-Combinational-Analysis-GDSC2/main/PC-CDDM-GA.jpg)
